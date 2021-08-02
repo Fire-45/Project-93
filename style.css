@@ -1,0 +1,36 @@
+#title{
+    font-size: 35;
+    margin-top: 40;
+    color: rgb(16, 202, 235);
+}
+body{
+    background-color: rgb(12, 8, 8);
+}
+#styleDiv{
+    border-radius: 40px;
+    background-color: rgb(206, 204, 204);
+    margin-right: 270;
+    margin-left: 270;
+}
+#C-style{
+    border-radius: 110px;
+    width:150px;
+    height:150px;
+}
+#merlin{
+    color: green;
+    
+    
+}
+
+.size{
+    font-size: 25px;
+}
+
+#login_button{
+    margin-bottom: 26px;
+}
+
+#username{
+    width: 550px;
+}
